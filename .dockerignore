@@ -1,0 +1,6 @@
+.git
+.gitignore
+*.md
+vendor
+qr.html
+qr.template.html
